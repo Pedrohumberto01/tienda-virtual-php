@@ -1,0 +1,29 @@
+.app-sidebar__user-avatar{
+	width: 48px;
+	background: transparent;
+	padding: 6px;
+}
+.headerRegister, .header-primary{
+	background: gray;
+	color: #FFF;
+}
+.headerUpdate{
+	background: blue;
+	color: #FFF;
+}
+.notBlock{
+	display: none;
+}
+.header-color{
+	background: blue;
+	color: #FFF;
+}
+.header-color-usuarios-eliminados{
+	background: red;
+	color: #FFF;
+}
+/*
+*{
+	font-family: Optima;
+}
+*/
